@@ -1,0 +1,11 @@
+<script src="{{URL::asset('js/jquery.js')}}"></script>
+<script src="{{URL::asset('js/fontawesome.min.js')}}"></script>
+<script src="{{URL::asset('js/waypoints.min.js')}}"></script>
+<script src="{{URL::asset('js/bootstrap.min.js')}}"></script>
+<script src="{{URL::asset('js/swiper.min.js')}}"></script>
+<script src="{{URL::asset('js/jquery.countdown.min.js')}}"></script>
+<script src="{{URL::asset('js/jquery.counterup.min.js')}}"></script>
+<script src="{{URL::asset('js/isotope.pkgd.min.js')}}"></script>
+<script src="{{URL::asset('js/lightcase.js')}}"></script>
+<script src="{{URL::asset('js/functions.js')}}"></script>
+<script src="{{URL::asset('js/bootstrap.js')}}"></script>
